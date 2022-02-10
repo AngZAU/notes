@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+-- Javascript selectors
+-----
+
+document.querySelectorAll('.col-header__3')
